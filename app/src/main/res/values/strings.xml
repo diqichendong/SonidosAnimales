@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sonidos de animales</string>
+    <string name="menuItemTipo">Tipo</string>
+    <string name="menuItemDomesticos">Domésticos</string>
+    <string name="menuItemSalvajes">Salvajes</string>
+    <string name="menuItemAves">Aves</string>
+    <string name="menuItemSalir">Salir</string>
+    <string name="adSalirTitulo">Salir del programa</string>
+    <string name="adSalirMensaje">¿Quieres salir del programa?</string>
+    <string name="adSalirSi">Si</string>
+    <string name="adSalirNo">No</string>
+</resources>
